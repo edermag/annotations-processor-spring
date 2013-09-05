@@ -1,4 +1,4 @@
-annotations-processor
+annotations-processor-spring
 ==============
 
 This is another way to use metadata in Java, like annotations-processor with the same input and output.
